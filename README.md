@@ -1,12 +1,2 @@
-This is the repository where I publish the work I am working on.
-
-- 👋 Hi, I’m Vivek Agrawal, currently working as Technical Architect in DXC Technology. I have goo exposure in solutioning of enterprise applications based on Java,J2EE,Spring,Angular,AWS.
-- 🌱 I have done trainings on Nodejs, Angular and React. I have also completed Machine Learing Specialization from Coursera. 
-- 👀 I’m interested to work on AI/ML projects, Nodejs/Angular/React based projects and Microservices
-- 📫 How to reach me: [Vivek Agrawal](https://www.linkedin.com/in/vivek-agrawal-a7659b15/)
-
-<details>
-  <summary><b>Languages, Frameworks and Tools</b></summary>
- <br/>
- Java, Spring, Spring Boot, AWS, Nodejs, Angular, React, Eclipse, VSCode, Postman, SOAPUI, Tensorflow, Python
-</details>
+Hi all, I am Vivek Agrawal having 15+ years of experience in IT industry and working as technical architect in DXC Technology. My key role is providing modern solutions for our product, leading and performing POCs. I am avid learner and keep exploring new technologies. I have exposure to wide range of technologies like - 
+Java, AWS, Spring Boot, Nodejs, Angular, React, AI/ML.
